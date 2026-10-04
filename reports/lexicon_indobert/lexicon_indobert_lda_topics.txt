@@ -1,0 +1,15 @@
+== lexicon_indobert | negatif ==
+Topic 1: iran, trump, as, perang, israel, dunia, amerika, antek, prabowo, takut
+Topic 2: negara, of, bangsa, amerika, palestina, israel, dunia, prabowo, perdamaian, gaza
+Topic 3: negara, rakyat, orang, mbg, sok, urus, omon, presiden, prabowo, wowo
+
+== lexicon_indobert | netral ==
+Topic 1: of, wowo, bangsa, pengamat, mbg, as, negara, perserikatan, perdamaian, wo
+Topic 2: israel, iran, presiden, bowo, pemimpin, pahlawan, rakyat, orang, macan, bela
+Topic 3: omon, trump, prabowo, amerika, konoha, blok, sok, si, urus, and
+
+== lexicon_indobert | positif ==
+Topic 1: bangsa, amerika, negara, trump, islam, harga, israel, iran, rakyat, palestina
+Topic 2: the, presiden, of, and, as, to, in, iran, trump, is
+Topic 3: ya, iran, prabowo, mantap, allah, percaya, mbg, presiden, dunia, israel
+

@@ -1,0 +1,15 @@
+== smsa_indobert | negatif ==
+Topic 1: iran, amerika, israel, as, palestina, of, perang, omon, gaza, rakyat
+Topic 2: negara, trump, bangsa, orang, urus, mbg, rakyat, sok, wowo, dunia
+Topic 3: prabowo, presiden, rakyat, ya, pengamat, orang, dunia, perang, sok, tau
+
+== smsa_indobert | netral ==
+Topic 1: bangsa, prabowo, perang, perserikatan, dunia, bbm, minyak, presiden, wowo, of
+Topic 2: of, the, as, iran, israel, and, to, trump, rudal, in
+Topic 3: negara, trump, perdamaian, iran, amerika, palestina, mbg, omon, blok, negeri
+
+== smsa_indobert | positif ==
+Topic 1: iran, prabowo, as, wowo, mantap, israel, trump, negara, presiden, setuju
+Topic 2: negara, amerika, bangsa, dunia, perang, orang, prabowo, bbm, trump, percaya
+Topic 3: palestina, of, gaza, semoga, perdamaian, negara, dunia, presiden, mbg, bagus
+

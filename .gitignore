@@ -1,0 +1,141 @@
+# =========================================================
+# YouTube Audience Sentiment Analytics - Git Ignore
+# =========================================================
+
+# -------------------------
+# Operating System
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# IDE / Editor
+# -------------------------
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Environment / Secrets
+# -------------------------
+.env
+.env.*
+!.env.example
+
+# API / cloud credentials
+credentials.json
+client_secret.json
+service-account.json
+service-account-*.json
+token.json
+*credentials*.json
+
+# Private keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# -------------------------
+# Google Colab / Drive
+# -------------------------
+drive/
+content/
+
+# -------------------------
+# Logs / Temporary Files
+# -------------------------
+*.log
+*.tmp
+*.temp
+*.cache
+
+# -------------------------
+# ML Experiment Artifacts
+# -------------------------
+wandb/
+runs/
+mlruns/
+outputs/
+artifacts/
+
+# -------------------------
+# Hugging Face / Dataset Cache
+# -------------------------
+.huggingface/
+.cache/
+transformers_cache/
+datasets_cache/
+
+# -------------------------
+# Large Model Files
+# -------------------------
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.h5
+*.keras
+*.onnx
+*.joblib
+*.pkl
+
+# Keep model documentation in Git
+models/*
+!models/README.md
+
+# -------------------------
+# Archives / Backups
+# -------------------------
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bak
+*.backup
+*.old
+*~
+
+# -------------------------
+# Local Data / Exports
+# -------------------------
+*.sqlite
+*.sqlite3
+*.db
+
+# -------------------------
+# Optional: Ignore raw YouTube data
+# Uncomment if raw comments should NOT be published
+# -------------------------
+# datasets/01_youtube_raw_comments.csv

@@ -1,0 +1,20 @@
+# Core data processing
+pandas
+numpy
+tqdm
+
+# YouTube Data API
+google-api-python-client
+
+# Machine learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# NLP / Transformer models
+transformers
+datasets
+torch
