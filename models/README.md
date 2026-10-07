@@ -58,14 +58,6 @@ model.safetensors
 
 ---
 
-## ⚠️ Important
-
-The Google Drive links point to the **model folder**, not to a single weight file.
-
-The complete model package should contain the model configuration, tokenizer files, and `model.safetensors`. Do not download only `model.safetensors` when the goal is to load the model directly with Hugging Face Transformers.
-
-The repository intentionally excludes model weights and training checkpoints from Git.
-
 ## 🔗 Model Architecture
 
 Both models use:
@@ -81,20 +73,3 @@ with three sentiment labels:
 1 = netral
 2 = positif
 ```
-
-## 📌 Storage Strategy
-
-```text
-GitHub
-├── Source notebook
-├── Dataset / analysis data
-├── Reports
-├── Requirements
-└── Documentation
-
-Google Drive
-├── Lexicon → IndoBERT
-└── SmSA → IndoBERT
-```
-
-The model files may later be migrated to a dedicated model repository such as Hugging Face Hub when a more permanent model distribution mechanism is required.
